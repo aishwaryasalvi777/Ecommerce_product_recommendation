@@ -148,9 +148,9 @@ Incorporate content-based filtering or hybrid approaches.
 Extend dashboard for AB testing and user behavior simulation.
 
 👨‍💻 Author
-Harshal Patil
+Aishvarya Salvi
 MS in Engineering Science (Data Science) – SUNY Buffalo
-Ex-Assistant Manager @ Reliance Jio | Backend, Data Pipelines, APIs, ML
-📧 harshal.patil@email.com
-🔗 LinkedIn
+📧 aishwarya.salvi28@gmail.com
+
+
 
